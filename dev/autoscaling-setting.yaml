@@ -6,7 +6,7 @@ metadata:
 data:
   default: |
     {"enabled":false}
-  agent-service: |
+  agent-service: |  
     {"enabled":false}
   article-management: |
     {"enabled":false}
