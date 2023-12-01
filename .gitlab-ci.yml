@@ -6,7 +6,7 @@ stages:
 deploy-dev:
   stage: deploy-dev
   before_script: 
-    - export KUBECONFIG=$kubeconfig_dev
+    - export KUBECONFIG=$KubeConfig_Raypro_dev
     - echo "KUBECONFIG=$KUBECONFIG"
   environment:
     name: dev
@@ -20,7 +20,7 @@ deploy-dev:
 deploy-staging:
   stage: deploy-staging
   before_script: 
-    - export KUBECONFIG=$kubeconfig_staging
+    - export KUBECONFIG=$KubeConfig_Raypro_staging
     - echo "KUBECONFIG=$KUBECONFIG"
   environment:
     name: staging
@@ -34,7 +34,7 @@ deploy-staging:
 deploy-prod:
   stage: deploy-prod
   before_script: 
-    - export KUBECONFIG=$kubeconfig_prod
+    - export KUBECONFIG=$KubeConfig_Raypro_prod
     - echo "KUBECONFIG=$KUBECONFIG"
   environment:
     name: prod
