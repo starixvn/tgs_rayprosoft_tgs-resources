@@ -11,11 +11,7 @@ deploy-dev:
   environment:
     name: dev
   script:
-    - | 
-      kubectl apply -f dev/autoscaling-setting.yaml
-      kubectl apply -f dev/resources-setting.yaml
-      kubectl apply -f dev/tgs-setting.yaml
-      kubectl apply -f dev/tgs-connection.yaml
+    - kubectl apply -f dev/
       
 deploy-staging:
   stage: deploy-staging
@@ -25,12 +21,8 @@ deploy-staging:
   environment:
     name: staging
   script:
-    - | 
-      kubectl apply -f staging/autoscaling-setting.yaml
-      kubectl apply -f staging/resources-setting.yaml
-      kubectl apply -f staging/tgs-setting.yaml
-      kubectl apply -f staging/tgs-connection.yaml
-
+    - kubectl apply -f staging/
+    
 deploy-prod:
   stage: deploy-prod
   before_script: 
@@ -39,8 +31,4 @@ deploy-prod:
   environment:
     name: prod
   script:
-    - | 
-      kubectl apply -f prod/autoscaling-setting.yaml
-      kubectl apply -f prod/resources-setting.yaml
-      kubectl apply -f prod/tgs-setting.yaml
-      kubectl apply -f prod/tgs-connection.yaml
+    - kubectl apply -f prod/
