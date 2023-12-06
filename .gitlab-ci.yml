@@ -7,28 +7,31 @@ deploy-dev:
   stage: deploy-dev
   before_script: 
     - export KUBECONFIG=$KubeConfig_Raypro_dev
-    - echo "KUBECONFIG=$KUBECONFIG"
   environment:
     name: dev
   script:
     - kubectl apply -f dev/
-      
+  only: 
+    - main
+    
 deploy-staging:
   stage: deploy-staging
   before_script: 
     - export KUBECONFIG=$KubeConfig_Raypro_staging
-    - echo "KUBECONFIG=$KUBECONFIG"
   environment:
     name: staging
   script:
     - kubectl apply -f staging/
+  only: 
+    - main
     
 deploy-prod:
   stage: deploy-prod
   before_script: 
     - export KUBECONFIG=$KubeConfig_Raypro_prod
-    - echo "KUBECONFIG=$KUBECONFIG"
   environment:
     name: prod
   script:
     - kubectl apply -f prod/
+  only: 
+    - main
