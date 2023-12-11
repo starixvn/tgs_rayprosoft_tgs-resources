@@ -308,6 +308,8 @@ data:
     {"enabled":false}
   payment-dibaopay: |
     {"enabled":false}
+  payment-u2pay: |
+    {"enabled":false}
   payment-fixtool: |
     {"enabled":false}
   payment-withdraw-limit: |
