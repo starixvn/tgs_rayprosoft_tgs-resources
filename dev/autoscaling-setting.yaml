@@ -82,9 +82,9 @@ data:
     {"enabled":false}
   game-gamerecord-tcg-work: |
     {"enabled":false}
-  game-gamerecord-vr-scheduleservice: |
+  game-gameinterface-vr: |
     {"enabled":false}
-  game-gamerecord-vr-service: |
+  game-gamerecord-vr: |
     {"enabled":false}
   game-gameinterface-wgvia: |
     {"enabled":false}

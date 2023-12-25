@@ -82,9 +82,9 @@ data:
     {"enabled":false}
   game-gamerecord-tcg-work: |
     {"enabled":false}
-  game-gamerecord-vr-scheduleservice: |
-    {"enabled":false}
-  game-gamerecord-vr-service: |
+  game-gameinterface-vr: |
+    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+  game-gamerecord-vr: |
     {"enabled":false}
   game-gameinterface-wgvia: |
     {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
