@@ -48,6 +48,8 @@ stringData:
   payment-metapay-callback: https://stg-payment.rpgp.cc/metapay
   payment-gcpay-paymentApiUrl: https://apii.dkk888.com
   payment-gcpay-callback: https://stg-payment.rpgp.cc/gcpay
+  payment-hpay-paymentApiUrl: https://apii.dkk888.com
+  payment-hpay-callback: https://stg-payment.rpgp.cc/hpay
   payment-sbpay-paymentApiUrl: https://tianciv310528.com
   payment-sbpay-callback: https://stg-payment.rpgp.cc/sbpay
   payment-ganyopay-paymentApiUrl: https://www.enier13.com
