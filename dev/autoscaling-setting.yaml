@@ -94,8 +94,6 @@ data:
     {"enabled":false}
   game-gamerecord-manual-service: |
     {"enabled":false}
-  game-gameinterface-awc-service: |
-    {"enabled":false}
   game-gameinterface-awc: |
     {"enabled":false}
   game-gamerecord-awc: |
