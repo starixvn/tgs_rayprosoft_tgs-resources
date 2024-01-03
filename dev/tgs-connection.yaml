@@ -53,6 +53,8 @@ stringData:
   payment-sbpay-paymentApiUrl: https://tianciv310528.com
   payment-sbpay-callback: https://dev-payment.rpgp.cc/sbpay
   payment-ganyopay-paymentApiUrl: https://www.enier13.com
+  payment-ubpay-paymentApiUrl: https://ubtxn.com
+  payment-ubpay-callback: https://dev-payment.rpgp.cc/ubpay
   payment-ganyopay-callback: https://dev-payment.rpgp.cc/ganyopay
   payment-dibaopay-paymentApiUrl: https://api.dibaopay.support
   payment-dibaopay-callback: https://dev-payment.rpgp.cc/dibaopay
