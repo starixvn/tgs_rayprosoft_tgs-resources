@@ -54,8 +54,6 @@ data:
     {"enabled":false}
   game-gamewagers-firsts: |
     {"enabled":false}
-  game-tcg-ftp: |
-    {"enabled":false}
   game-gameinterface-avia: |
     {"enabled":false}
   game-gamerecord-avia: |
@@ -75,12 +73,6 @@ data:
   game-gameinterface-ly: |
     {"enabled":false}
   game-gamerecord-ly: |
-    {"enabled":false}
-  game-gamerecord-tcg-scheduleservice: |
-    {"enabled":false}
-  game-gamerecord-tcg: |
-    {"enabled":false}
-  game-gamerecord-tcg-work: |
     {"enabled":false}
   game-gameinterface-vr: |
     {"enabled":false}
