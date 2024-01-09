@@ -32,8 +32,6 @@ data:
     {"enabled":false}
   game-gamerounds: |
     {"enabled":false}
-  game-gamerounds-schedule: |
-    {"enabled":false}
   game-gamerecord-handle: |
     {"enabled":false}
   game-gamerounds-handle: |

@@ -32,8 +32,6 @@ data:
     {"enabled":false}
   game-gamerounds: |
     {"enabled":false}
-  game-gamerounds-schedule: |
-    {"enabled":false}
   game-gamerecord-handle: |
     {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
   game-gamerounds-handle: |
