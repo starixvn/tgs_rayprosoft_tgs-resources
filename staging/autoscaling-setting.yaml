@@ -58,10 +58,6 @@ data:
     {"enabled":false}
   game-gamerecord-avia: |
     {"enabled":false}
-  game-gamerecord-bg-fishing-scheduleservice: |
-    {"enabled":false}
-  game-gamerecord-bg-fishing-service: |
-    {"enabled":false}
   game-gameinterface-joker: |
     {"enabled":false}
   game-gamerecord-joker: |
