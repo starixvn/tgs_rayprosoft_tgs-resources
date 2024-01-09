@@ -182,8 +182,6 @@ data:
     {"enabled":false}
   game-gamerecord-im: |
     {"enabled":false}
-  game-gamerecord-im-schedule: |
-    {"enabled":false}
   game-gameinterface-cards365: |
     {"enabled":false}
   game-gamerecord-cards365: |
