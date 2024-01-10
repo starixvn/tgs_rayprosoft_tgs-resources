@@ -15,7 +15,7 @@ stringData:
   rabbitmq-user: tgs
   rabbitmq-pass: TgsP@ssw0rd
   rabbitmq-vhost: /tgs/staging
-  tgs-email-url: https://stg-email.rpgp.cc
+  tgs-email-url: https://email.rpgp.cc
   tgs-email-password: wor39t!8RQ#2
   notify-path: /telegram/staging/log-alert
   payment-help2pay-paymentDepositApiUrl: https://api.testingzone88.com
