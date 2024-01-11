@@ -310,6 +310,8 @@ data:
     {"enabled":false}
   sms-chuan-xin: |
     {"enabled":false}
+  sms-cyn: |
+    {"enabled":false}
   deposit-accumulate-roulette: |
     {"enabled":false}
   deposit-accumulate-roulette-background: |
