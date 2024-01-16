@@ -62,6 +62,8 @@ stringData:
   payment-u2pay-callback: https://payment.yydsgo.xyz/u2pay
   payment-winpay-paymentApiUrl: https://wpay.galaxy-api.com
   payment-winpay-callback: https://payment.yydsgo.xyz/winpay
+  payment-123pay-paymentApiUrl: https://123pay.hubcc.net
+  payment-123pay-callback: https://payment.yydsgo.xyz/123pay
   payment-malakipay-paymentApiUrl-v2: https://malakipay.la2568.site
   payment-malakipay-callback-v2: https://payment.yydsgo.xyz/malakipay-v2
   mongo-gameprovider: mongodb://mongoadmin:kX4mHhJvV4v4L7KeudDn@tgs-prod.cluster-chyzvr00rkpj.ap-northeast-1.docdb.amazonaws.com:27017/gameprovider?ssl=true&ssl_ca_certs=rds-combined-ca-bundle.pem&replicaSet=rs0&readPreference=secondaryPreferred&retryWrites=false
