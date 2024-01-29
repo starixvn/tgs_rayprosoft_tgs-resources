@@ -42,6 +42,8 @@ data:
     {"enabled":false}
   game-gamewagers-rapidtest: |
     {"enabled":false}
+  game-gamewagers-unsettle: |
+    {"enabled":false}
   game-gamewagers-stats: |
     {"enabled":false}
   game-gamewagers-wager: |
