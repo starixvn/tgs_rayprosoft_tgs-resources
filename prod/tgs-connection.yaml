@@ -52,6 +52,8 @@ stringData:
   payment-hpay-callback: https://payment.yydsgo.xyz/hpay
   payment-sbpay-paymentApiUrl: https://tianciv310528.com
   payment-sbpay-callback: https://payment.yydsgo.xyz/sbpay
+  payment-feibaopay-paymentApiUrl: https://api.feibaopay.com
+  payment-feibaopay-callback: https://payment.yydsgo.xyz/feibaopay
   payment-ubpay-paymentApiUrl: https://ubtxn.com
   payment-ubpay-callback: https://payment.yydsgo.xyz/ubpay
   payment-ganyopay-paymentApiUrl: https://www.enier13.com

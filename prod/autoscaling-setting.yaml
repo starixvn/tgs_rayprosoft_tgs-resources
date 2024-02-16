@@ -288,6 +288,8 @@ data:
     {"enabled":false}
   payment-sbpay: |
     {"enabled":false}
+  payment-feibaopay: |
+    {"enabled":false}
   payment-ganyopay: |
     {"enabled":false}
   payment-dibaopay: |
