@@ -52,6 +52,8 @@ stringData:
   payment-hpay-callback: https://dev-payment.rpgp.cc/hpay
   payment-sbpay-paymentApiUrl: https://tianciv310528.com
   payment-sbpay-callback: https://dev-payment.rpgp.cc/sbpay
+  payment-feibaopay-paymentApiUrl: https://api.feibaopay.com
+  payment-feibaopay-callback: https://dev-payment.rpgp.cc/feibaopay
   payment-ganyopay-paymentApiUrl: https://www.enier13.com
   payment-ubpay-paymentApiUrl: https://ubtxn.com
   payment-ubpay-callback: https://dev-payment.rpgp.cc/ubpay
