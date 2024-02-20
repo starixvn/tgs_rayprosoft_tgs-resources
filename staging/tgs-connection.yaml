@@ -34,7 +34,7 @@ stringData:
   payment-tupay-callback: https://stg-payment.rpgp.cc/tupay
   payment-malakipay-paymentApiUrl: https://ph.malakipay26888.com
   payment-malakipay-callback: https://stg-payment.rpgp.cc/malakipay
-  payment-alfapay-paymentApiUrl: https://tiancip020706.com
+  payment-alfapay-paymentApiUrl: https://alfapay63.com
   payment-alfapay-callback: https://stg-payment.rpgp.cc/alfapay
   payment-wandapay-paymentApiUrl: https://xapi.z1wx8.com
   payment-wandapay-callback: https://stg-payment.rpgp.cc/wandapay

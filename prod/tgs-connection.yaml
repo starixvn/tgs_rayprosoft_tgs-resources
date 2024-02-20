@@ -34,7 +34,7 @@ stringData:
   payment-tupay-callback: https://payment.yydsgo.xyz/tupay
   payment-malakipay-paymentApiUrl: https://ph.malakipay26888.com
   payment-malakipay-callback: https://payment.yydsgo.xyz/malakipay
-  payment-alfapay-paymentApiUrl: https://tiancip020706.com
+  payment-alfapay-paymentApiUrl: https://alfapay63.com
   payment-alfapay-callback: https://payment.yydsgo.xyz/alfapay
   payment-wandapay-paymentApiUrl: https://xapi.z1wx8.com
   payment-wandapay-callback: https://payment.yydsgo.xyz/wandapay
