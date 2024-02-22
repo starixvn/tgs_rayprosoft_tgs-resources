@@ -96,6 +96,8 @@ data:
     {"limits":{"cpu":"1","memory":"512Mi"},"requests":{"cpu":"250m","memory":"512Mi"}}
   game-gamewagers-stats: |
     {"limits":{"cpu":"1","memory":"512Mi"},"requests":{"cpu":"250m","memory":"512Mi"}}
+  game-gamewagers-stat-worker: |
+    {"limits":{"cpu":"1","memory":"512Mi"},"requests":{"cpu":"250m","memory":"512Mi"}}
   game-gamewagers-wager: |
     {"limits":{"cpu":"1","memory":"512Mi"},"requests":{"cpu":"250m","memory":"512Mi"}}
   game-gamewagers-expire: |
