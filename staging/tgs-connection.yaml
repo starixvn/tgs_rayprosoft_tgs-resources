@@ -60,7 +60,7 @@ stringData:
   payment-ganyopay-callback: https://stg-payment.rpgp.cc/ganyopay
   payment-dibaopay-paymentApiUrl: https://api.dibaopay.support
   payment-dibaopay-callback: https://stg-payment.rpgp.cc/dibaopay
-  payment-u2pay-paymentApiUrl: https://xr.hmpas.com
+  payment-u2pay-paymentApiUrl: https://xr.rangiruru.com
   payment-u2pay-callback: https://stg-payment.rpgp.cc/u2pay
   payment-winpay-paymentApiUrl: https://wpay.galaxy-api.com
   payment-winpay-callback: https://stg-payment.rpgp.cc/winpay
