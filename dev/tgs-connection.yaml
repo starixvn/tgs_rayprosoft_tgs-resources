@@ -70,6 +70,8 @@ stringData:
   payment-123pay-callback: https://dev-payment.rpgp.cc/123pay
   payment-lpay-paymentApiUrl: https://lpay.la2568.site
   payment-lpay-callback: https://dev-payment.rpgp.cc/lpay
+  payment-sunnypay-paymentApiUrl: https://sunnypay.la2568.site
+  payment-sunnypay-callback: https://dev-payment.rpgp.cc/sunnypay
   mongo-gameprovider: mongodb://admin:abcd1234@192.168.50.111:27017/gameprovider?retryWrites=true&w=majority&authSource=admin
   mongo-player-bucket: mongodb://admin:abcd1234@192.168.50.111:27017/buckets?retryWrites=true&w=majority&authSource=admin
   mongo-messaging: mongodb://admin:abcd1234@192.168.50.111:27017/messaging?retryWrites=true&w=majority&authSource=admin

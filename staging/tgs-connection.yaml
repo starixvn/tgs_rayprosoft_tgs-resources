@@ -70,6 +70,8 @@ stringData:
   payment-malakipay-callback-v2: https://stg-payment.rpgp.cc/malakipay-v2
   payment-lpay-paymentApiUrl: https://lpay.la2568.site
   payment-lpay-callback: https://stg-payment.rpgp.cc/lpay
+  payment-sunnypay-paymentApiUrl: https://sunnypay.la2568.site
+  payment-sunnypay-callback: https://stg-payment.rpgp.cc/sunnypay
   mongo-gameprovider: mongodb://root:1qaz2wsx@mongodb/gameprovider?retryWrites=true&w=majority&authSource=admin
   mongo-player-bucket: mongodb://root:1qaz2wsx@mongodb/buckets?retryWrites=true&w=majority&authSource=admin
   mongo-messaging: mongodb://root:1qaz2wsx@mongodb/messaging?retryWrites=true&w=majority&authSource=admin
