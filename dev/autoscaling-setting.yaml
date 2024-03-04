@@ -52,6 +52,8 @@ data:
     {"enabled":false}
   game-gamewagers-stat-hourly: |
     {"enabled":false}
+  game-gamewagers-stat-daily: |
+    {"enabled":false}
   game-gamewagers-wager: |
     {"enabled":false}
   game-gamewagers-expire: |
