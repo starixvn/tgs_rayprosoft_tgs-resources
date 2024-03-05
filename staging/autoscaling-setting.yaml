@@ -44,8 +44,6 @@ data:
     {"enabled":false}
   game-gamewagers-unsettle: |
     {"enabled":false}
-  game-gamewagers-stats: |
-    {"enabled":false}
   game-gamewagers-stat-worker: |
     {"enabled":false}
   game-gamewagers-stat-check: |
