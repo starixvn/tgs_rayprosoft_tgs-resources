@@ -446,23 +446,7 @@ data:
     {"limits":{"cpu":"100m","memory":"256Mi"},"requests":{"cpu":"10m","memory":"40Mi"}}
   validatecode-api: |
     {"limits":{"cpu":"200m","memory":"400Mi"},"requests":{"cpu":"20m","memory":"64Mi"}}
-  viplevel-aggregate: |
-    {"limits":{"cpu":"1","memory":"200Mi"},"requests":{"cpu":"10m","memory":"200Mi"}}
-  viplevel-databaseserver: |
-    {"limits":{"cpu":"1","memory":"200Mi"},"requests":{"cpu":"10m","memory":"200Mi"}}
-  viplevel-promotionserver: |
-    {"limits":{"cpu":"1","memory":"200Mi"},"requests":{"cpu":"10m","memory":"200Mi"}}
-  viplevel-snapshot: |
-    {"limits":{"cpu":"1","memory":"200Mi"},"requests":{"cpu":"10m","memory":"200Mi"}}
-  viplevel-upgrade: |
-    {"limits":{"cpu":"1","memory":"200Mi"},"requests":{"cpu":"10m","memory":"200Mi"}}
-  viplevel-birthdayserver: |
-    {"limits":{"cpu":"1","memory":"200Mi"},"requests":{"cpu":"10m","memory":"200Mi"}}
-  viplevel-command: |
-    {"limits":{"cpu":"1","memory":"200Mi"},"requests":{"cpu":"10m","memory":"200Mi"}}
   viplevel-api: |
-    {"limits":{"cpu":"1","memory":"200Mi"},"requests":{"cpu":"10m","memory":"200Mi"}}
-  viplevel-web: |
     {"limits":{"cpu":"1","memory":"200Mi"},"requests":{"cpu":"10m","memory":"200Mi"}}
   tst-memo: |
     {"limits":{"cpu":"100m","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}

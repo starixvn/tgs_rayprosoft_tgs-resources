@@ -230,23 +230,7 @@ data:
     {"enabled":false}
   validatecode-api: |
     {"enabled":false}
-  viplevel-aggregate: |
-    {"enabled":false}
-  viplevel-databaseserver: |
-    {"enabled":false}
-  viplevel-promotionserver: |
-    {"enabled":false}
-  viplevel-snapshot: |
-    {"enabled":false}
-  viplevel-upgrade: |
-    {"enabled":false}
-  viplevel-birthdayserver: |
-    {"enabled":false}
-  viplevel-command: |
-    {"enabled":false}
   viplevel-api: |
-    {"enabled":false}
-  viplevel-web: |
     {"enabled":false}
   marketing-report-daily-aggregate: |
     {"enabled":false}
