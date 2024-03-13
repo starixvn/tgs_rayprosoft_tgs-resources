@@ -80,7 +80,7 @@ stringData:
   mongo-gp-player-balances: mongodb://root:1qaz2wsx@mongodb/game_player_balances?retryWrites=true&w=majority&authSource=admin
   mongo-gp-game-records: mongodb://root:1qaz2wsx@mongodb/game-records?retryWrites=true&w=majority&authSource=admin
   mongo-file: mongodb://root:1qaz2wsx@mongodb/filedb?retryWrites=true&w=majority&authSource=admin
-  mongo-viplevel: mongodb://root:1qaz2wsx@mongodb/viplevel?retryWrites=true&w=majority&authSource=admin
+  mongo-viplevel: mongodb://root:1qaz2wsx@mongodb/?retryWrites=true&w=majority&authSource=admin
   aws-accessKeyId: AKIAQ4KFUNHMUZU6QD2V
   aws-secretAccessKey: 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
   aws-region: ap-east-1
