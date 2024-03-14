@@ -60,6 +60,8 @@ data:
     {"enabled":false}
   game-gamewagers-eventsource-worker: |
     {"enabled":false}
+  game-gamewagers-settlement-worker: |
+    {"enabled":false}
   game-gameinterface-avia: |
     {"enabled":true,"minReplicas":1,"maxReplicas":1,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
   game-gamerecord-avia: |

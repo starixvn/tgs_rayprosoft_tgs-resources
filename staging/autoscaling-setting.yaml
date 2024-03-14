@@ -60,6 +60,8 @@ data:
     {"enabled":false}
   game-gamewagers-eventsource-worker: |
     {"enabled":false}
+  game-gamewagers-settlement-worker: |
+    {"enabled":false}
   game-gameinterface-avia: |
     {"enabled":false}
   game-gamerecord-avia: |
