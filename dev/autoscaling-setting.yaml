@@ -220,6 +220,8 @@ data:
     {"enabled":false}
   game-gameinterface-funky: |
     {"enabled":false}
+  game-gamerecord-funky: |
+    {"enabled":false}
   game-gamecurrency: |
     {"enabled":false}
   game-gameplayerlogout: |

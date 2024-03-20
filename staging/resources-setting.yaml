@@ -254,6 +254,8 @@ data:
     {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
   game-gameinterface-funky: |
     {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
+  game-gamerecord-funky: |
+    {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
   game-gamecurrency: |
     {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
   game-gameplayerlogout: |
