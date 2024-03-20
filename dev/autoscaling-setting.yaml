@@ -218,6 +218,8 @@ data:
     {"enabled":false}
   game-gamerecord-cp: |
     {"enabled":false}
+  game-gameinterface-funky: |
+    {"enabled":false}
   game-gamecurrency: |
     {"enabled":false}
   game-gameplayerlogout: |
