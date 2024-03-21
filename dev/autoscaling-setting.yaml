@@ -62,7 +62,7 @@ data:
     {"enabled":false}
   game-gamebets-eventsource-check: |
     {"enabled":false}
-  game-gamewagers-settlement-worker: |
+  game-gamebets-worker: |
     {"enabled":false}
   game-gameinterface-avia: |
     {"enabled":false}
