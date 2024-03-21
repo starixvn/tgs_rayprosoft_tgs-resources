@@ -60,7 +60,7 @@ data:
     {"enabled":false}
   game-gamebets-eventsource-worker: |
     {"enabled":false}
-  game-gamewagers-eventsource-check: |
+  game-gamebets-eventsource-check: |
     {"enabled":false}
   game-gamewagers-settlement-worker: |
     {"enabled":false}
