@@ -58,7 +58,7 @@ data:
     {"enabled":false}
   game-gamewagers-fixes: |
     {"enabled":false}
-  game-gamewagers-eventsource-worker: |
+  game-gamebets-eventsource-worker: |
     {"enabled":false}
   game-gamewagers-eventsource-check: |
     {"enabled":false}

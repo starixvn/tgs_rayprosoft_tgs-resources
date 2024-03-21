@@ -58,7 +58,7 @@ data:
     {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
   game-gamewagers-fixes: |
     {"enabled":false}
-  game-gamewagers-eventsource-worker: |
+  game-gamebets-eventsource-worker: |
     {"enabled":false}
   game-gamewagers-eventsource-check: |
     {"enabled":false}
