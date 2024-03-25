@@ -114,6 +114,8 @@ data:
     {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"100m","memory":"300Mi"}}
   game-gamebets-worker: |
     {"limits":{"cpu":"1","memory":"1024Mi"},"requests":{"cpu":"500m","memory":"1024Mi"}}
+  game-gamebets-queue: |
+    {"limits":{"cpu":"1","memory":"1024Mi"},"requests":{"cpu":"500m","memory":"1024Mi"}}
   game-gameinterface-avia: |
     {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"50m","memory":"300Mi"}}
   game-gamerecord-avia: |

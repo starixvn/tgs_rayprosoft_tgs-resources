@@ -64,6 +64,8 @@ data:
     {"enabled":false}
   game-gamebets-worker: |
     {"enabled":false}
+  game-gamebets-queue: |
+    {"enabled":false}
   game-gameinterface-avia: |
     {"enabled":false}
   game-gamerecord-avia: |
