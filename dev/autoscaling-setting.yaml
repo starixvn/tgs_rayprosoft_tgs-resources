@@ -54,7 +54,7 @@ data:
     {"enabled":false}
   game-gamewagers-expire: |
     {"enabled":false}
-  game-gamewagers-firsts: |
+  game-gamebets-first-worker: |
     {"enabled":false}
   game-gamewagers-fixes: |
     {"enabled":false}
