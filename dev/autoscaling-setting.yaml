@@ -34,7 +34,7 @@ data:
     {"enabled":false}
   game-gamerecord-handle: |
     {"enabled":false}
-  game-gamerounds-handle: |
+  game-gamerounds-worker: |
     {"enabled":false}
   game-gamewagers: |
     {"enabled":false}
