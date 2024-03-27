@@ -38,8 +38,6 @@ data:
     {"enabled":false}
   game-gamewagers: |
     {"enabled":false}
-  game-gamewagers-handle: |
-    {"enabled":false}
   game-gamewagers-rapidtest: |
     {"enabled":false}
   game-gamewagers-unsettle: |
