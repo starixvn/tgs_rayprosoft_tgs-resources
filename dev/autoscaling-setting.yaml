@@ -50,15 +50,11 @@ data:
     {"enabled":false}
   game-gamewagers-expire: |
     {"enabled":false}
-  game-gamebets-first-worker: |
-    {"enabled":false}
   game-gamewagers-fixes: |
     {"enabled":false}
-  game-gamebets-eventsource-worker: |
-    {"enabled":false}
-  game-gamebets-eventsource-check: |
-    {"enabled":false}
   game-gamebets-worker: |
+    {"enabled":false}
+  game-gamebets-first-worker: |
     {"enabled":false}
   game-gamebets-queue: |
     {"enabled":false}

@@ -100,18 +100,14 @@ data:
     {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"100m","memory":"300Mi"}}
   game-gamewagers-expire: |
     {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"100m","memory":"300Mi"}}
-  game-gamebets-first-worker: |
-    {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"100m","memory":"300Mi"}}
   game-gamewagers-fixes: |
-    {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"100m","memory":"300Mi"}}
-  game-gamebets-eventsource-worker: |
-    {"limits":{"cpu":"1","memory":"1024Mi"},"requests":{"cpu":"500m","memory":"1024Mi"}}
-  game-gamebets-eventsource-check: |
     {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"100m","memory":"300Mi"}}
   game-gamebets-worker: |
     {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"100m","memory":"300Mi"}}
+  game-gamebets-first-worker: |
+    {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"100m","memory":"300Mi"}}
   game-gamebets-queue: |
-    {"limits":{"cpu":"1","memory":"1024Mi"},"requests":{"cpu":"500m","memory":"1024Mi"}}
+    {"limits":{"cpu":"1","memory":"512Mi"},"requests":{"cpu":"250","memory":"512Mi"}}
   game-gamebets-queue-worker: |
     {"limits":{"cpu":"1","memory":"1024Mi"},"requests":{"cpu":"500m","memory":"1024Mi"}}
   game-gameinterface-avia: |
