@@ -68,11 +68,11 @@ data:
     {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
   game-gamewagers-expire: |
     {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
-  game-gamewagers-fixes: |
-    {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
   game-gamebets-worker: |
     {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
   game-gamebets-first-worker: |
+    {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
+  game-gamebets-fixes: |
     {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
   game-gamebets-queue: |
     {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
