@@ -50,6 +50,8 @@ stringData:
   payment-gcpay-callback: https://payment.yydsgo.xyz/gcpay
   payment-hpay-paymentApiUrl: https://apii.dkk888.com
   payment-hpay-callback: https://payment.yydsgo.xyz/hpay
+  payment-ezpay-paymentApiUrl: https://apii.dkk888.com
+  payment-ezpay-callback: https://payment.yydsgo.xyz/ezpay
   payment-sbpay-paymentApiUrl: https://tianciv310528.com
   payment-sbpay-callback: https://payment.yydsgo.xyz/sbpay
   payment-feibaopay-paymentApiUrl: https://api.feibaopay.com
