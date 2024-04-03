@@ -50,6 +50,8 @@ stringData:
   payment-gcpay-callback: https://dev-payment.rpgp.cc/gcpay
   payment-hpay-paymentApiUrl: https://apii.dkk888.com
   payment-hpay-callback: https://dev-payment.rpgp.cc/hpay
+  payment-ezpay-paymentApiUrl: https://apii.dkk888.com
+  payment-ezpay-callback: https://dev-payment.rpgp.cc/ezpay
   payment-sbpay-paymentApiUrl: https://tianciv310528.com
   payment-sbpay-callback: https://dev-payment.rpgp.cc/sbpay
   payment-feibaopay-paymentApiUrl: https://api.feibaopay.com
