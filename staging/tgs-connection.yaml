@@ -64,7 +64,7 @@ stringData:
   payment-dibaopay-callback: https://stg-payment.rpgp.cc/dibaopay
   payment-u2pay-paymentApiUrl: https://xr.rangiruru.com
   payment-u2pay-callback: https://stg-payment.rpgp.cc/u2pay
-  payment-winpay-paymentApiUrl: https://wpay.galaxy-api.com
+  payment-winpay-paymentApiUrl: https://wpay.la2568.site
   payment-winpay-callback: https://stg-payment.rpgp.cc/winpay
   payment-123pay-paymentApiUrl: https://123pay.hubcc.net
   payment-123pay-callback: https://stg-payment.rpgp.cc/123pay
