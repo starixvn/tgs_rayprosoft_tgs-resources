@@ -218,6 +218,10 @@ data:
     {"enabled":false}
   game-gamerecord-funky: |
     {"enabled":false}
+  game-gameinterface-tp: |
+    {"enabled":false}
+  game-gamerecord-tp: |
+    {"enabled":false}
   game-gamecurrency: |
     {"enabled":false}
   game-gameplayerlogout: |
