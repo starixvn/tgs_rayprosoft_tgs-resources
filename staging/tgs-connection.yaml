@@ -74,6 +74,10 @@ stringData:
   payment-lpay-callback: https://stg-payment.rpgp.cc/lpay
   payment-sunnypay-paymentApiUrl: https://sunnypay.la2568.site
   payment-sunnypay-callback: https://stg-payment.rpgp.cc/sunnypay
+  payment-alfapay-idr-paymentApiUrl: https://alfapay62.com
+  payment-alfapay-idr-callback: https://stg-payment.rpgp.cc/alfapay-idr
+  payment-megapay-paymentApiUrl: https://tiancid020910.com
+  payment-megapay-callback: https://stg-payment.rpgp.cc/megapay
   mongo-gameprovider: mongodb://root:1qaz2wsx@mongodb/gameprovider?retryWrites=true&w=majority&authSource=admin
   mongo-player-bucket: mongodb://root:1qaz2wsx@mongodb/buckets?retryWrites=true&w=majority&authSource=admin
   mongo-messaging: mongodb://root:1qaz2wsx@mongodb/messaging?retryWrites=true&w=majority&authSource=admin
