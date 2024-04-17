@@ -78,6 +78,8 @@ stringData:
   payment-alfapay-idr-callback: https://dev-payment.rpgp.cc/alfapay-idr
   payment-megapay-paymentApiUrl: https://tiancid020910.com
   payment-megapay-callback: https://dev-payment.rpgp.cc/megapay
+  payment-shunfapay-paymentApiUrl: https://shunfapay.com
+  payment-shunfapay-callback: https://dev-payment.rpgp.cc/shunfapay
   mongo-gameprovider: mongodb://admin:abcd1234@192.168.50.111:27017/gameprovider?retryWrites=true&w=majority&authSource=admin
   mongo-player-bucket: mongodb://admin:abcd1234@192.168.50.111:27017/buckets?retryWrites=true&w=majority&authSource=admin
   mongo-messaging: mongodb://admin:abcd1234@192.168.50.111:27017/messaging?retryWrites=true&w=majority&authSource=admin
