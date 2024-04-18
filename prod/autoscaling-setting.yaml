@@ -61,27 +61,27 @@ data:
   game-gamebets-queue-check: |
     {"enabled":false}
   game-gameinterface-avia: |
-    {"enabled":true,"minReplicas":1,"maxReplicas":1,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-avia: |
     {"enabled":false}
   game-gameinterface-joker: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-joker: |
     {"enabled":false}
   game-gameinterface-ky: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-ky: |
     {"enabled":false}
   game-gameinterface-ly: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-ly: |
     {"enabled":false}
   game-gameinterface-vr: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-vr: |
     {"enabled":false}
   game-gameinterface-wgvia: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-wgvia: |
     {"enabled":false}
   game-gamerecordschedules: |
@@ -89,19 +89,19 @@ data:
   game-gamerecord-manual-service: |
     {"enabled":false}
   game-gameinterface-awc: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-awc: |
     {"enabled":false}
   game-gameinterface-jili: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-jili: |
     {"enabled":false}
   game-gameinterface-wmcasino-service: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-wmcasino: |
     {"enabled":false}
   game-gameinterface-pp: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-pp: |
     {"enabled":false}
   game-gamerecord-pptf-scheduleservice: |
@@ -111,7 +111,7 @@ data:
   game-gamefundtransfer: |
     {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
   game-gameinterface-evolution-service: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-evolution: |
     {"enabled":false}
   game-gamerecord-evolution-scheduleservice: |
@@ -121,43 +121,43 @@ data:
   game-gameexternalinterface-sw-service: |
     {"enabled":true,"minReplicas":1,"maxReplicas":1,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
   game-gameinterface-sw-service: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-sw: |
     {"enabled":false}
   game-gameinterface-wgfm-service: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-wgfm: |
     {"enabled":false}
   game-gameinterface-jdb-service: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-jdb: |
     {"enabled":false}
   game-gameinterface-sbo-service: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-sbo: |
     {"enabled":false}
   game-gamerecord-bc-workservice: |
     {"enabled":true,"minReplicas":1,"maxReplicas":3,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
   game-gameinterface-bti-service: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-bti: |
     {"enabled":false}
   game-gameinterface-habanero-service: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-habanero: |
     {"enabled":false}
   game-gameinterface-saba-service: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-saba: |
     {"enabled":false}
   game-gameinterface-sm01-service: |
-    {"enabled":true,"minReplicas":1,"maxReplicas":1,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-sm01-scheduleservice: |
     {"enabled":false}
   game-gamerecord-sm01-service: |
     {"enabled":false}
   game-gameinterface-tfgaming-service: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-tfgaming: |
     {"enabled":false}
   game-gamerecord-tfgaming-scheduleservice: |
@@ -165,53 +165,53 @@ data:
   game-gamerecord-tfgaming-service: |
     {"enabled":false}
   game-gameinterface-dg-service: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-dg: |
     {"enabled":false}
   game-gameinterface-endor-service: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-endor: |
     {"enabled":false}
   game-gamerecord-endorphina-session: |
     {"enabled":false}
   game-gameinterface-fachai: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-fachai: |
     {"enabled":false}
   game-gameinterface-obet: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-obet: |
     {"enabled":false}
   game-gameinterface-yeebet: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-yeebet: |
     {"enabled":false}
   game-gameinterface-im: |
-    {"enabled":true,"minReplicas":1,"maxReplicas":1,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-im: |
     {"enabled":false}
   game-gameinterface-cards365: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-cards365: |
     {"enabled":false}
   game-gameinterface-pinnacle: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-pinnacle: |
     {"enabled":false}
   game-gameinterface-wicketcricket: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-wicketcricket: |
     {"enabled":false}
   game-gameinterface-gkx: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-gkx: |
     {"enabled":false}
   game-gameinterface-v8: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-v8: |
     {"enabled":false}
   game-gameinterface-cp: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gamerecord-cp: |
     {"enabled":false}
   game-gameinterface-funky: |
