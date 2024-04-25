@@ -81,7 +81,7 @@ data:
   game-pluggable-service: |
     {"limits":{"cpu":"1","memory":"512Mi"},"requests":{"cpu":"200m","memory":"512Mi"}}
   game-gamerounds: |
-    {"limits":{"cpu":"1","memory":"200Mi"},"requests":{"cpu":"50m","memory":"200Mi"}}
+    {"limits":{"cpu":"1","memory":"512Mi"},"requests":{"cpu":"200m","memory":"512Mi"}}
   game-gamerecord-handle: |
     {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"200m","memory":"300Mi"}}
   game-gamerounds-worker: |
