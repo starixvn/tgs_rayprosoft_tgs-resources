@@ -80,6 +80,8 @@ stringData:
   payment-megapay-callback: https://dev-payment.rpgp.cc/megapay
   payment-shunfapay-paymentApiUrl: https://shunfapay.com
   payment-shunfapay-callback: https://dev-payment.rpgp.cc/shunfapay
+  payment-halopay-paymentApiUrl: https://api.halopayipi.com
+  payment-halopay-callback: https://dev-payment.rpgp.cc/halopay
   mongo-gameprovider: mongodb://admin:abcd1234@192.168.50.111:27017/gameprovider?retryWrites=true&w=majority&authSource=admin
   mongo-player-bucket: mongodb://admin:abcd1234@192.168.50.111:27017/buckets?retryWrites=true&w=majority&authSource=admin
   mongo-messaging: mongodb://admin:abcd1234@192.168.50.111:27017/messaging?retryWrites=true&w=majority&authSource=admin
