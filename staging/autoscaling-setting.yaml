@@ -8,6 +8,8 @@ data:
     {"enabled":false}
   agent-service: |
     {"enabled":false}
+  agent-dividend-service: |
+    {"enabled":false}
   article-management: |
     {"enabled":false}
   brand-cert-api: |

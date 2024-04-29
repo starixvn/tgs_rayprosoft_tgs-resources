@@ -8,6 +8,8 @@ data:
     {"limits":{"cpu":"1","memory":"250Mi"},"requests":{"cpu":"50m","memory":"100Mi"}}
   agent-api: |
     {"limits":{"cpu":"200m","memory":"400Mi"},"requests":{"cpu":"50m","memory":"400Mi"}}
+  agent-dividend-service: |
+    {"limits":{"cpu":"100m","memory":"400Mi"},"requests":{"cpu":"100m","memory":"400Mi"}}
   agent-service: |
     {"limits":{"cpu":"200m","memory":"400Mi"},"requests":{"cpu":"50m","memory":"400Mi"}}
   backoffice-api: |

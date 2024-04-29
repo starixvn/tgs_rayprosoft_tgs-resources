@@ -10,6 +10,8 @@ data:
     {"limits":{"cpu":"10m","memory":"60Mi"},"requests":{"cpu":"2m","memory":"12Mi"}}
   agent-api: |
     {"limits":{"cpu":"50m","memory":"512Mi"},"requests":{"cpu":"20m","memory":"200Mi"}}
+  agent-dividend-service: |
+    {"limits":{"cpu":"100m","memory":"400Mi"},"requests":{"cpu":"100m","memory":"400Mi"}}
   agent-gpi: |
     {"limits":{"cpu":"10m","memory":"60Mi"},"requests":{"cpu":"2m","memory":"12Mi"}}
   agent-hk28: |
