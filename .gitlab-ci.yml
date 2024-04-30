@@ -1,18 +1,18 @@
 stages:
-  - deploy-dev
+#  - deploy-dev
   - deploy-staging
   - deploy-prod
 
-deploy-dev:
-  stage: deploy-dev
-  before_script: 
-    - export KUBECONFIG=$KubeConfig_Raypro_dev
-  environment:
-    name: dev
-  script:
-    - kubectl apply -f dev/
-  only: 
-    - main
+#deploy-dev:
+#  stage: deploy-dev
+#  before_script: 
+#    - export KUBECONFIG=$KubeConfig_Raypro_dev
+#  environment:
+#    name: dev
+#  script:
+#    - kubectl apply -f dev/
+#  only: 
+#    - main
     
 deploy-staging:
   stage: deploy-staging
