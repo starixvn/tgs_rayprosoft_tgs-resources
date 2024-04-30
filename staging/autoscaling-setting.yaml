@@ -54,6 +54,8 @@ data:
     {"enabled":false}
   game-gamebets-rapidtest: |
     {"enabled":false}
+  game-gamebets-rapidtest-worker: |
+    {"enabled":false}
   game-gamebets-rapidtest-expire: |
     {"enabled":false}
   game-gamebets: |
