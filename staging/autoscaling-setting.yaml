@@ -36,11 +36,7 @@ data:
     {"enabled":false}
   game-gamerecord-handle: |
     {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
-  game-gamerounds-worker: |
-    {"enabled":false}
   game-gamewagers: |
-    {"enabled":false}
-  game-gamewagers-rapidtest: |
     {"enabled":false}
   game-gamewagers-stat-worker: |
     {"enabled":false}
@@ -49,8 +45,6 @@ data:
   game-gamewagers-stat-hourly: |
     {"enabled":false}
   game-gamewagers-stat-daily: |
-    {"enabled":false}
-  game-gamewagers-expire: |
     {"enabled":false}
   game-gamebets-rapidtest: |
     {"enabled":false}
@@ -63,12 +57,6 @@ data:
   game-gamebets-worker: |
     {"enabled":false}
   game-gamebets-first-worker: |
-    {"enabled":false}
-  game-gamebets-queue: |
-    {"enabled":false}
-  game-gamebets-queue-worker: |
-    {"enabled":false}
-  game-gamebets-queue-check: |
     {"enabled":false}
   game-gameinterface-avia: |
     {"enabled":false}
