@@ -1,5 +1,5 @@
 stages:
-  - deploy-dev
+  ##- deploy-dev
   - deploy-staging
   - deploy-prod
 
