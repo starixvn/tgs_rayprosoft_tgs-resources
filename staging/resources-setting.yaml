@@ -446,6 +446,8 @@ data:
     {"limits":{"cpu":"100m","memory":"512Mi"},"requests":{"cpu":"10m","memory":"40Mi"}}
   sms-chuan-xin: |
     {"limits":{"cpu":"100m","memory":"512Mi"},"requests":{"cpu":"10m","memory":"40Mi"}}
+  sms-submit: |
+    {"limits":{"cpu":"100m","memory":"512Mi"},"requests":{"cpu":"10m","memory":"40Mi"}}
   sms-cyn: |
     {"limits":{"cpu":"100m","memory":"512Mi"},"requests":{"cpu":"10m","memory":"40Mi"}}
   station-letter: |
