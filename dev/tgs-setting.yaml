@@ -5,15 +5,18 @@ metadata:
   namespace: dev
 data:
   node-selector_ondemand: | 
-    {}
+    { "dedicated": "dev" }
   dedicated_ondemand: |
+    {"effect":"NoSchedule","key": "dedicated", "operator": "Equal", "value": "dev"}
   node-selector_game: | 
-    {}
+    { "dedicated": "dev" }
   dedicated_game: |
+    {"effect":"NoSchedule","key": "dedicated", "operator": "Equal", "value": "dev"}
   node-selector_gamewagers: | 
-    {}
+    { "dedicated": "dev" }
   dedicated_gamewagers: |
+    {"effect":"NoSchedule","key": "dedicated", "operator": "Equal", "value": "dev"}
   node-selector: | 
-    {}
+    { "dedicated": "dev" }
   dedicated: | 
-     
+    {"effect":"NoSchedule","key": "dedicated", "operator": "Equal", "value": "dev"}
