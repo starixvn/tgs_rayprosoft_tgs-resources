@@ -56,8 +56,6 @@ data:
     {"enabled":false}
   game-gamebets-worker: |
     {"enabled":false}
-  game-gamebets-first-worker: |
-    {"enabled":false}
   game-gameinterface-avia: |
     {"enabled":false}
   game-gamerecord-avia: |
@@ -221,7 +219,7 @@ data:
   game-gamerecord-tp: |
     {"enabled":false}
   game-gamecurrency: |
-    {"enabled":true,"minReplicas":2,"maxReplicas":2,"targetCPUUtilizationPercentage":60,"targetMemoryUtilizationPercentage":60}
+    {"enabled":false}
   game-gameplayerlogout: |
     {"enabled":false}
   game-gamecommand: |
