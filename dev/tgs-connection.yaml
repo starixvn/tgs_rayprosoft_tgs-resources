@@ -82,6 +82,8 @@ stringData:
   payment-shunfapay-callback: https://dev-payment.rpgp.cc/shunfapay
   payment-halopay-paymentApiUrl: https://api.halopayipi.com
   payment-halopay-callback: https://dev-payment.rpgp.cc/halopay
+  payment-fukaipay-paymentApiUrl: https://openapi.fukuipay.ooo
+  payment-fukaipay-callback: https://dev-payment.rpgp.cc/fukaipay
   mongo-gameprovider: mongodb://root:1qaz2wsx@mongodb/gameprovider?retryWrites=true&w=majority&authSource=admin
   mongo-player-bucket: mongodb://root:1qaz2wsx@mongodb/buckets?retryWrites=true&w=majority&authSource=admin
   mongo-messaging: mongodb://root:1qaz2wsx@mongodb/messaging?retryWrites=true&w=majority&authSource=admin
