@@ -97,11 +97,11 @@ stringData:
   aws-secretAccessKey: 2+suqoLHk1TUPkjTI6T02RIDZn0xqQTy85F8Pjco
   aws-region: us-west-1
   aws-useHttp: "true"
-  aws-public-externalServiceUrl: https://minio-api.rpgp.cc
-  aws-public-serviceUrl: https://minio-api.rpgp.cc
-  aws-public-bucket: tgs-project
-  aws-private-externalServiceUrl: https://minio-api.rpgp.cc
-  aws-private-serviceUrl: https://minio-api.rpgp.cc
-  aws-private-bucket: tgs-secret
+  aws-public-externalServiceUrl: https://project.srvptt.com
+  aws-public-serviceUrl: http://project.srvptt.com.s3.ap-east-1.amazonaws.com
+  aws-public-bucket: dev-tgs-project
+  aws-private-externalServiceUrl: https://tgs-secret.s3.ap-east-1.amazonaws.com
+  aws-private-serviceUrl: https://tgs-secret.s3.ap-east-1.amazonaws.com
+  aws-private-bucket: dev-tgs-secret
   sms-globalcall-smsApiUrl: https://www.1557.com
   sms-maiteng-smsApiUrl: http://123.57.229.179:9090
