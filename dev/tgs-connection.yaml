@@ -93,8 +93,8 @@ stringData:
   mongo-gp-game-records: mongodb://root:1qaz2wsx@mongodb/game-records?retryWrites=true&w=majority&authSource=admin
   mongo-file: mongodb://root:1qaz2wsx@mongodb/filedb?retryWrites=true&w=majority&authSource=admin
   mongo-viplevel: mongodb://root:1qaz2wsx@mongodb/?retryWrites=true&w=majority&authSource=admin
-  aws-accessKeyId: 1SVW99PHVVBJRELWTSJN
-  aws-secretAccessKey: 2+suqoLHk1TUPkjTI6T02RIDZn0xqQTy85F8Pjco
+  aws-accessKeyId: AKIAQ4KFUNHMUZU6QD2V
+  aws-secretAccessKey: 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
   aws-region: us-west-1
   aws-useHttp: "true"
   aws-public-externalServiceUrl: https://project.srvptt.com
