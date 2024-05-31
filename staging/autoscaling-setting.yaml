@@ -218,6 +218,10 @@ data:
     {"enabled":false}
   game-gamerecord-tp: |
     {"enabled":false}
+  game-gameinterface-cq9: |
+    {"enabled":false}
+  game-gamerecord-cq9: |
+    {"enabled":false}
   game-gamecurrency: |
     {"enabled":false}
   game-gameplayerlogout: |
