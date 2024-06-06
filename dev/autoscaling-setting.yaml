@@ -222,9 +222,9 @@ data:
     {"enabled":false}
   game-gamerecord-cq9: |
     {"enabled":false}
-  game-gameinterface-sharp: |
+  game-gameinterface-sharpsports: |
     {"enabled":false}
-  game-gamerecord-sharp: |
+  game-gamerecord-sharpsports: |
     {"enabled":false}
   game-gamecurrency: |
     {"enabled":false}
