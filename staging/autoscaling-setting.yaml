@@ -222,6 +222,10 @@ data:
     {"enabled":false}
   game-gamerecord-cq9: |
     {"enabled":false}
+  game-gameinterface-sharp: |
+    {"enabled":false}
+  game-gamerecord-sharp: |
+    {"enabled":false}
   game-gamecurrency: |
     {"enabled":false}
   game-gameplayerlogout: |
