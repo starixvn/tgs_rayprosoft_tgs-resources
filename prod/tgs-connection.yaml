@@ -5,7 +5,7 @@ metadata:
   namespace: prod
 type: Opaque
 stringData:
-  office-ip: 18.162.210.214
+  office-ip: 125.227.69.112
   token: mjw3oQKrXUYqU5CigFjHT9QmaiL5ZBjaPxYtbZVo
   accountId: bca33f2713e936cee007fa34f24a773f
   tgs: Server=pgpool;Port=9999;Database=tgs;User Id=tgs_app;Password=VSr4DuVQEzfPC7Tcz
