@@ -226,6 +226,10 @@ data:
     {"enabled":false}
   game-gamerecord-sharpsports: |
     {"enabled":false}
+  game-gameinterface-ga28: |
+    {"enabled":false}
+  game-gamerecord-ga28: |
+    {"enabled":false}
   game-gamecurrency: |
     {"enabled":false}
   game-gameplayerlogout: |
