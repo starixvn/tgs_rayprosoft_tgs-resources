@@ -132,8 +132,6 @@ data:
     {"enabled":false}
   game-gamerecord-sbo: |
     {"enabled":false}
-  game-gamerecord-bc-workservice: |
-    {"enabled":false}
   game-gameinterface-bti-service: |
     {"enabled":false}
   game-gamerecord-bti: |
@@ -147,10 +145,6 @@ data:
   game-gamerecord-saba: |
     {"enabled":false}
   game-gameinterface-sm01-service: |
-    {"enabled":false}
-  game-gamerecord-sm01-scheduleservice: |
-    {"enabled":false}
-  game-gamerecord-sm01-service: |
     {"enabled":false}
   game-gameinterface-tfgaming-service: |
     {"enabled":false}

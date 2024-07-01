@@ -166,8 +166,6 @@ data:
     {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
   game-gamerecord-sbo: |
     {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
-  game-gamerecord-bc-workservice: |
-    {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
   game-gameinterface-bti-service: |
     {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
   game-gamerecord-bti: |
@@ -181,10 +179,6 @@ data:
   game-gamerecord-saba: |
     {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
   game-gameinterface-sm01-service: |
-    {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
-  game-gamerecord-sm01-scheduleservice: |
-    {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
-  game-gamerecord-sm01-service: |
     {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
   game-gameinterface-tfgaming-service: |
     {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"10m","memory":"64Mi"}}
