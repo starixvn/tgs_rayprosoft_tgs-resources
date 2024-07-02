@@ -232,6 +232,8 @@ data:
     {"enabled":false}
   game-gameplayerbalance: |
     {"enabled":false}
+  game-gameplayeronline: |
+    {"enabled":false}
   game-server: |
     {"enabled":false}
   game-type-round-aggregate-service: |

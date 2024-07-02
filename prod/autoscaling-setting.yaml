@@ -234,6 +234,8 @@ data:
     {"enabled":false}
   game-server: |
     {"enabled":false}
+  game-gameplayeronline: |
+    {"enabled":false}
   game-type-round-aggregate-service: |
     {"enabled":false}
   hydra-provider: |
