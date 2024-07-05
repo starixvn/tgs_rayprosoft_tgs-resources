@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: resources-setting-monitor
+  namespace: staging
+data:
+  default: |
+    {"limits":{"cpu":"100m","memory":"150Mi"},"requests":{"cpu":"5m","memory":"50Mi"}}
