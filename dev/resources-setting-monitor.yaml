@@ -5,4 +5,4 @@ metadata:
   namespace: dev
 data:
   default: |
-    {"limits":{"cpu":"100m","memory":"150Mi"},"requests":{"cpu":"5m","memory":"50Mi"}}
+    {"limits":{"cpu":"100m","memory":"128Mi"},"requests":{"cpu":"5m","memory":"32Mi"}}
