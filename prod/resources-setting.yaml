@@ -429,7 +429,7 @@ data:
   promotion-api: |
     {"limits":{"cpu":"200m","memory":"400Mi"},"requests":{"cpu":"200m","memory":"400Mi"}}
   promotion-deposit-service: |
-    {"limits":{"cpu":"100m","memory":"256Mi"},"requests":{"cpu":"100m","memory":"256Mi"}}
+    {"limits":{"cpu":"100m","memory":"512Mi"},"requests":{"cpu":"100m","memory":"256Mi"}}
   promotion-distribute-fixtool: |
     {"limits":{"cpu":"200m","memory":"400Mi"},"requests":{"cpu":"200m","memory":"400Mi"}}
   promotion-offlineloginreward: |
