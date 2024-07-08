@@ -95,7 +95,7 @@ stringData:
   mongo-viplevel: mongodb://root:1qaz2wsx@mongodb/?retryWrites=true&w=majority&authSource=admin
   aws-accessKeyId: AKIAQ4KFUNHMUZU6QD2V
   aws-secretAccessKey: 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
-  aws-region: us-west-1
+  aws-region: ap-east-1
   aws-useHttp: "true"
   aws-public-externalServiceUrl: https://project.srvptt.com
   aws-public-serviceUrl: http://project.srvptt.com.s3.ap-east-1.amazonaws.com
