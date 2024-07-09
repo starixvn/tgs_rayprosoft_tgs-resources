@@ -224,6 +224,10 @@ data:
     {"enabled":false}
   game-gamerecord-ga28: |
     {"enabled":false}
+  game-gameinterface-gt: |
+    {"enabled":false}
+  game-gamerecord-gt: |
+    {"enabled":false}
   game-gamecurrency: |
     {"enabled":false}
   game-gameplayerlogout: |
