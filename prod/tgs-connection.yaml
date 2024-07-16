@@ -86,6 +86,8 @@ stringData:
   payment-halopay-callback: https://payment.yydsgo.xyz/halopay
   payment-fukaipay-paymentApiUrl: https://openapi.fukuipay.ooo
   payment-fukaipay-callback: https://payment.yydsgo.xyz/fukaipay
+  payment-s88pay-paymentApiUrl: https://s88pay.net
+  payment-s88pay-callback: https://payment.yydsgo.xyz/s88pay
   mongo-gameprovider: mongodb://mongoadmin:kX4mHhJvV4v4L7KeudDn@tgs-prod.cluster-chyzvr00rkpj.ap-northeast-1.docdb.amazonaws.com:27017/gameprovider?ssl=true&ssl_ca_certs=rds-combined-ca-bundle.pem&replicaSet=rs0&readPreference=secondaryPreferred&retryWrites=false
   mongo-player-bucket: mongodb://mongoadmin:kX4mHhJvV4v4L7KeudDn@tgs-prod.cluster-chyzvr00rkpj.ap-northeast-1.docdb.amazonaws.com:27017/buckets?ssl=true&ssl_ca_certs=rds-combined-ca-bundle.pem&replicaSet=rs0&readPreference=secondaryPreferred&retryWrites=false
   mongo-messaging: mongodb://mongoadmin:kX4mHhJvV4v4L7KeudDn@tgs-prod.cluster-chyzvr00rkpj.ap-northeast-1.docdb.amazonaws.com:27017/messaging?ssl=true&ssl_ca_certs=rds-combined-ca-bundle.pem&replicaSet=rs0&readPreference=secondaryPreferred&retryWrites=false
