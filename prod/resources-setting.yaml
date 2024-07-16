@@ -131,7 +131,7 @@ data:
   game-gamerecord-wgvia: |
     {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"50m","memory":"256Mi"}}
   game-gamerecordschedules: |
-    {"limits":{"cpu":"1","memory":"512Mi"},"requests":{"cpu":"100m","memory":"512Mi"}}
+    {"limits":{"cpu":"1","memory":"200Mi"},"requests":{"cpu":"50m","memory":"200Mi"}}
   game-gamerecord-manual-service: |
     {"limits":{"cpu":"500m","memory":"1024Mi"},"requests":{"cpu":"100m","memory":"128Mi"}}
   game-gameinterface-awc: |
