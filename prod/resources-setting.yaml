@@ -155,7 +155,7 @@ data:
   game-gamerecord-pptf-service: |
     {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"50m","memory":"256Mi"}}
   game-gamefundtransfer: |
-    {"limits":{"cpu":"1","memory":"384Mi"},"requests":{"cpu":"100m","memory":"384Mi"}}
+    {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"100m","memory":"300Mi"}}
   game-gameinterface-evolution-service: |
     {"limits":{"cpu":"1","memory":"225Mi"},"requests":{"cpu":"50m","memory":"225Mi"}}
   game-gamerecord-evolution: |
@@ -165,7 +165,7 @@ data:
   game-gamerecord-evolution-service: |
     {"limits":{"cpu":"1","memory":"256Mi"},"requests":{"cpu":"50m","memory":"256Mi"}}
   game-gameexternalinterface-sw-service: |
-    {"limits":{"cpu":"100m","memory":"512Mi"},"requests":{"cpu":"100m","memory":"512Mi"}}
+    {"limits":{"cpu":"100m","memory":"200Mi"},"requests":{"cpu":"100m","memory":"200Mi"}}
   game-gameinterface-sw-service: |
     {"limits":{"cpu":"1","memory":"225Mi"},"requests":{"cpu":"50m","memory":"225Mi"}}
   game-gamerecord-sw: |
