@@ -100,19 +100,11 @@ data:
     {"enabled":false}
   game-gamerecord-pp: |
     {"enabled":false}
-  game-gamerecord-pptf-scheduleservice: |
-    {"enabled":false}
-  game-gamerecord-pptf-service: |
-    {"enabled":false}
   game-gamefundtransfer: |
     {"enabled":false}
   game-gameinterface-evolution-service: |
     {"enabled":false}
   game-gamerecord-evolution: |
-    {"enabled":false}
-  game-gamerecord-evolution-scheduleservice: |
-    {"enabled":false}
-  game-gamerecord-evolution-service: |
     {"enabled":false}
   game-gameexternalinterface-sw-service: |
     {"enabled":false}
@@ -149,10 +141,6 @@ data:
   game-gameinterface-tfgaming-service: |
     {"enabled":false}
   game-gamerecord-tfgaming: |
-    {"enabled":false}
-  game-gamerecord-tfgaming-scheduleservice: |
-    {"enabled":false}
-  game-gamerecord-tfgaming-service: |
     {"enabled":false}
   game-gameinterface-dg-service: |
     {"enabled":false}
