@@ -86,6 +86,8 @@ stringData:
   payment-fukaipay-callback: https://stg-payment.rpgp.cc/fukaipay
   payment-s88pay-paymentApiUrl: https://staging.s88pay.net
   payment-s88pay-callback: https://stg-payment.rpgp.cc/s88pay
+  payment-direpay-paymentApiUrl: https://api.uat.direpay.app
+  payment-direpay-callback: https://stg-payment.rpgp.cc/direpay
   mongo-gameprovider: mongodb://root:1qaz2wsx@mongodb/gameprovider?retryWrites=true&w=majority&authSource=admin
   mongo-player-bucket: mongodb://root:1qaz2wsx@mongodb/buckets?retryWrites=true&w=majority&authSource=admin
   mongo-messaging: mongodb://root:1qaz2wsx@mongodb/messaging?retryWrites=true&w=majority&authSource=admin
