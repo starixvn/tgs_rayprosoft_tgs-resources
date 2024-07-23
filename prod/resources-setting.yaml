@@ -266,6 +266,10 @@ data:
     {"limits":{"cpu":"1","memory":"224Mi"},"requests":{"cpu":"50m","memory":"224Mi"}}
   game-gamerecord-gt: |
     {"limits":{"cpu":"1","memory":"224Mi"},"requests":{"cpu":"50m","memory":"224Mi"}}
+  game-gameinterface-mg: |
+    {"limits":{"cpu":"1","memory":"224Mi"},"requests":{"cpu":"50m","memory":"224Mi"}}
+  game-gamerecord-mg: |
+    {"limits":{"cpu":"1","memory":"224Mi"},"requests":{"cpu":"50m","memory":"224Mi"}}
   game-gamecurrency: |
     {"limits":{"cpu":"1","memory":"224Mi"},"requests":{"cpu":"50m","memory":"224Mi"}}
   game-gameplayerlogout: |
