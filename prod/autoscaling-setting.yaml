@@ -220,6 +220,10 @@ data:
     {"enabled":false}
   game-gamerecord-mg: |
     {"enabled":false}
+  game-gameinterface-cr: |
+    {"enabled":false}
+  game-gamerecord-cr: |
+    {"enabled":false}
   game-gamecurrency: |
     {"enabled":false}
   game-gameplayerlogout: |
