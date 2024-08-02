@@ -26,6 +26,8 @@ data:
     {"enabled":false}
   fill-in-player-bucket-service: |
     {"enabled":false}
+  network-troubleshooting-tools: |
+    {"enabled":false}
   game-gameproviders: |
     {"enabled":false}
   game-pluggable-service: |

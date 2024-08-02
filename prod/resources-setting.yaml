@@ -70,18 +70,14 @@ data:
     {"limits":{"cpu":"500m","memory":"200Mi"},"requests":{"cpu":"10m","memory":"50Mi"}}
   fill-in-player-bucket-service: |
     {"limits":{"cpu":"1","memory":"512Mi"},"requests":{"cpu":"200m","memory":"256Mi"}}
-  game-ab: |
-    {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"50m","memory":"300Mi"}}
-  game-bg: |
-    {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"50m","memory":"300Mi"}}
-  game-saba: |
-    {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"50m","memory":"300Mi"}}
-  game-token: |
-    {"limits":{"cpu":"1","memory":"200Mi"},"requests":{"cpu":"10m","memory":"200Mi"}}
+  network-troubleshooting-tools: |
+    {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"10m","memory":"200Mi"}}
   game-gameproviders: |
     {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"100m","memory":"300Mi"}}
   game-pluggable-service: |
     {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"100m","memory":"300Mi"}}
+  game-token: |
+    {"limits":{"cpu":"1","memory":"200Mi"},"requests":{"cpu":"10m","memory":"200Mi"}}
   game-gamerounds: |
     {"limits":{"cpu":"1","memory":"512Mi"},"requests":{"cpu":"200m","memory":"512Mi"}}
   game-gamerecord-handle: |
