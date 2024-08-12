@@ -5,9 +5,9 @@ metadata:
   namespace: prod
 data:
   node-selector_devops: | 
-    {}
+    { "dedicated": "prometheus" }
   dedicated_devops: |
-    {}
+    {"effect":"NoSchedule","key": "dedicated", "operator": "Equal", "value": "prometheus"}
   node-selector_ondemand: | 
     { "dedicated": "ondemand" }
   dedicated_ondemand: |
