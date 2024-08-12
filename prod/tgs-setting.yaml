@@ -4,6 +4,10 @@ metadata:
   name: tgs-settings
   namespace: prod
 data:
+  node-selector_devops: | 
+    {}
+  dedicated_devops: |
+    {}
   node-selector_ondemand: | 
     { "dedicated": "ondemand" }
   dedicated_ondemand: |
