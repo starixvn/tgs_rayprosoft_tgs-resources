@@ -150,6 +150,8 @@ data:
     {"enabled":false}
   game-gamerecord-endor: |
     {"enabled":false}
+  game-gamerecord-endor-session: |
+    {"enabled":false}
   game-gamerecord-endorphina-session: |
     {"enabled":false}
   game-gameinterface-fachai: |
