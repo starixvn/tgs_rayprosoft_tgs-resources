@@ -88,13 +88,9 @@ stringData:
   payment-s88pay-callback: https://stg-payment.rpgp.cc/s88pay
   payment-direpay-paymentApiUrl: https://api.uat.direpay.app
   payment-direpay-callback: https://stg-payment.rpgp.cc/direpay
-  mongo-gameprovider: mongodb://root:1qaz2wsx@mongodb/gameprovider?retryWrites=true&w=majority&authSource=admin
   mongo-player-bucket: mongodb://root:1qaz2wsx@mongodb/buckets?retryWrites=true&w=majority&authSource=admin
   mongo-messaging: mongodb://root:1qaz2wsx@mongodb/messaging?retryWrites=true&w=majority&authSource=admin
   mongo-gp: mongodb://root:1qaz2wsx@mongodb/?retryWrites=true&w=majority&authSource=admin
-  mongo-gp-schedule-forms: mongodb://root:1qaz2wsx@mongodb/game_schedule_forms?retryWrites=true&w=majority&authSource=admin
-  mongo-gp-player-balances: mongodb://root:1qaz2wsx@mongodb/game_player_balances?retryWrites=true&w=majority&authSource=admin
-  mongo-gp-game-records: mongodb://root:1qaz2wsx@mongodb/game-records?retryWrites=true&w=majority&authSource=admin
   mongo-file: mongodb://root:1qaz2wsx@mongodb/filedb?retryWrites=true&w=majority&authSource=admin
   mongo-viplevel: mongodb://root:1qaz2wsx@mongodb/?retryWrites=true&w=majority&authSource=admin
   aws-accessKeyId: AKIAQ4KFUNHMUZU6QD2V
