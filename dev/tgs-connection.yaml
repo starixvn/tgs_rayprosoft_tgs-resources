@@ -62,7 +62,7 @@ stringData:
   payment-ganyopay-callback: https://dev-payment.rpgp.cc/ganyopay
   payment-dibaopay-paymentApiUrl: https://api.dibaopay.support
   payment-dibaopay-callback: https://dev-payment.rpgp.cc/dibaopay
-  payment-u2pay-paymentApiUrl: https://xr.rangiruru.com
+  payment-u2pay-paymentApiUrl: https://vn.rangiruru.com
   payment-u2pay-callback: https://dev-payment.rpgp.cc/u2pay
   payment-winpay-paymentApiUrl: https://wpay.la2568.site
   payment-winpay-callback: https://dev-payment.rpgp.cc/winpay
