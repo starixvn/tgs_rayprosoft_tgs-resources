@@ -102,6 +102,8 @@ data:
     {"enabled":false}
   game-gamefundtransfer: |
     {"enabled":false}
+  game-gamefund-tracker: |
+    {"enabled":false}
   game-gameinterface-evolution-service: |
     {"enabled":false}
   game-gamerecord-evolution: |
