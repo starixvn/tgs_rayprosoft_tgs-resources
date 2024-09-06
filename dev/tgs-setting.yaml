@@ -17,5 +17,6 @@ data:
   dedicated_gamewagers: |
 
   node-selector: | 
-    {}
+    { "dedicated": "dev" }
   dedicated: | 
+    {"effect":"NoSchedule","key": "dedicated", "operator": "Equal", "value": "dev"}
