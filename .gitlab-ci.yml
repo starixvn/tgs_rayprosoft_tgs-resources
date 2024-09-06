@@ -9,6 +9,10 @@ deploy-dev:
     - export KUBECONFIG=$KubeConfig_Raypro_dev
   environment:
     name: dev
+  tags:
+    - dev
+    - kubernetes
+    - deploy
   script:
     - kubectl apply -f dev/
   only: 
@@ -20,6 +24,10 @@ deploy-staging:
     - export KUBECONFIG=$KubeConfig_Raypro_staging
   environment:
     name: staging
+  tags:
+    - staging
+    - kubernetes
+    - deploy
   script:
     - kubectl apply -f staging/
   only: 
@@ -31,6 +39,10 @@ deploy-prod:
     - export KUBECONFIG=$KubeConfig_Raypro_prod
   environment:
     name: prod
+  tags:
+    - prod
+    - kubernetes
+    - deploy
   script:
     - kubectl apply -f prod/
   only: 
