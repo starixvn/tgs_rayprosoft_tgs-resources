@@ -95,7 +95,7 @@ data:
   game-gamebets-rapidtest: |
     {"limits":{"cpu":"1","memory":"512Mi"},"requests":{"cpu":"300m","memory":"512Mi"}}
   game-gamebets-rapidtest-worker: |
-    {"limits":{"cpu":"1","memory":"512Mi"},"requests":{"cpu":"200m","memory":"512Mi"}}
+    {"limits":{"cpu":"1","memory":"400Mi"},"requests":{"cpu":"200m","memory":"400Mi"}}
   game-gamebets-rapidtest-expire: |
      {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"50m","memory":"300Mi"}}
   game-gamebets: |
