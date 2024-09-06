@@ -12,8 +12,8 @@ deploy-dev:
   stage: deploy-dev
   image: 
     name: pgtgs/tgs-backend-deploy:latest
-  before_script: 
-    - export KUBECONFIG=$KubeConfig_Raypro_dev
+  # before_script: 
+  #   - export KUBECONFIG=$KubeConfig_Raypro_dev
   environment:
     name: dev
   tags:
@@ -29,8 +29,8 @@ deploy-staging:
   stage: deploy-staging
   image: 
     name: pgtgs/tgs-backend-deploy:latest
-  before_script: 
-    - export KUBECONFIG=$KubeConfig_Raypro_staging
+  # before_script: 
+  #   - export KUBECONFIG=$KubeConfig_Raypro_staging
   environment:
     name: staging
   tags:
@@ -46,8 +46,8 @@ deploy-prod:
   stage: deploy-prod
   image: 
     name: pgtgs/tgs-backend-deploy:latest
-  before_script: 
-    - export KUBECONFIG=$KubeConfig_Raypro_prod
+  # before_script: 
+  #   - export KUBECONFIG=$KubeConfig_Raypro_prod
   environment:
     name: prod
   tags:
