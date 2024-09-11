@@ -100,6 +100,8 @@ data:
     {"enabled":false}
   game-gamerecord-pp: |
     {"enabled":false}
+  game-gamefund: |
+    {"enabled":false}
   game-gamefundtransfer: |
     {"enabled":false}
   game-gamefund-tracker: |

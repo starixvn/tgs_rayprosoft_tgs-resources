@@ -144,6 +144,8 @@ data:
     {"limits":{"cpu":"1","memory":"224Mi"},"requests":{"cpu":"50m","memory":"224Mi"}}
   game-gamerecord-pp: |
     {"limits":{"cpu":"1","memory":"224Mi"},"requests":{"cpu":"50m","memory":"224Mi"}}
+  game-gamefund: |
+    {"limits":{"cpu":"1","memory":"224Mi"},"requests":{"cpu":"50m","memory":"224Mi"}}
   game-gamefundtransfer: |
     {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"100m","memory":"300Mi"}}
   game-gamefund-tracker: |
