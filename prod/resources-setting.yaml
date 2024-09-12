@@ -79,9 +79,9 @@ data:
   game-token: |
     {"limits":{"cpu":"1","memory":"200Mi"},"requests":{"cpu":"10m","memory":"200Mi"}}
   game-gamerounds: |
-    {"limits":{"cpu":"1","memory":"512Mi"},"requests":{"cpu":"200m","memory":"512Mi"}}
+    {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"200m","memory":"300Mi"}}
   game-gamerecord-handle: |
-    {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"100m","memory":"300Mi"}}
+    {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"200m","memory":"300Mi"}}
   game-gamewagers: |
     {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"50m","memory":"300Mi"}}
   game-gamewagers-stat-worker: |
@@ -93,15 +93,15 @@ data:
   game-gamewagers-stat-daily: |
     {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"50m","memory":"300Mi"}}
   game-gamebets-rapidtest: |
-    {"limits":{"cpu":"1","memory":"512Mi"},"requests":{"cpu":"300m","memory":"512Mi"}}
+    {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"200m","memory":"300Mi"}}
   game-gamebets-rapidtest-worker: |
-    {"limits":{"cpu":"1","memory":"400Mi"},"requests":{"cpu":"200m","memory":"400Mi"}}
+    {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"200m","memory":"300Mi"}}
   game-gamebets-rapidtest-expire: |
      {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"50m","memory":"300Mi"}}
   game-gamebets: |
-    {"limits":{"cpu":"1","memory":"512Mi"},"requests":{"cpu":"300m","memory":"512Mi"}}
+    {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"200m","memory":"300Mi"}}
   game-gamebets-worker: |
-    {"limits":{"cpu":"1","memory":"512Mi"},"requests":{"cpu":"200m","memory":"512Mi"}}
+    {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"200m","memory":"300Mi"}}
   game-gameinterface-avia: |
     {"limits":{"cpu":"1","memory":"224Mi"},"requests":{"cpu":"50m","memory":"224Mi"}}
   game-gamerecord-avia: |
