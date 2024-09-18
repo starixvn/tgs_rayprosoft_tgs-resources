@@ -258,6 +258,8 @@ data:
     {"enabled":false}
   promotion-distribute-fixtool: |
     {"enabled":false}
+  promotion-milestone-service: |
+    {"enabled":false}
   promotion-offlineloginreward: |
     {"enabled":false}
   promotion-relief-money-service: |
