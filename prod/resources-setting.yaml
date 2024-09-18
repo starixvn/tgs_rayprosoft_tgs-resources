@@ -430,6 +430,8 @@ data:
     {"limits":{"cpu":"100m","memory":"1024Mi"},"requests":{"cpu":"100m","memory":"256Mi"}}
   promotion-distribute-fixtool: |
     {"limits":{"cpu":"200m","memory":"400Mi"},"requests":{"cpu":"200m","memory":"400Mi"}}
+  promotion-milestone-service: |
+    {"limits":{"cpu":"200m","memory":"600Mi"},"requests":{"cpu":"50m","memory":"64Mi"}}
   promotion-offlineloginreward: |
     {"limits":{"cpu":"100m","memory":"256Mi"},"requests":{"cpu":"100m","memory":"256Mi"}}
   promotion-relief-money-service: |
