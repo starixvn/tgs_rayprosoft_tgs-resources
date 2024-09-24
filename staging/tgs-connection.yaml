@@ -88,6 +88,8 @@ stringData:
   payment-s88pay-callback: https://stg-payment.rpgp.cc/s88pay
   payment-direpay-paymentApiUrl: https://api.uat.direpay.app
   payment-direpay-callback: https://stg-payment.rpgp.cc/direpay
+  payment-antpay-paymentApiUrl: https://kfapi.ff1555.com
+  payment-antpay-callback: https://stg-payment.rpgp.cc/antpay
   mongo-player-bucket: mongodb://root:1qaz2wsx@mongodb/buckets?retryWrites=true&w=majority&authSource=admin
   mongo-messaging: mongodb://root:1qaz2wsx@mongodb/messaging?retryWrites=true&w=majority&authSource=admin
   mongo-gp: mongodb://root:1qaz2wsx@mongodb/?retryWrites=true&w=majority&authSource=admin
