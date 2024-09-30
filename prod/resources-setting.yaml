@@ -472,6 +472,8 @@ data:
     {"limits":{"cpu":"500m","memory":"300Mi"},"requests":{"cpu":"100m","memory":"300Mi"}}
   sms-cyn: |
     {"limits":{"cpu":"500m","memory":"300Mi"},"requests":{"cpu":"100m","memory":"300Mi"}}
+  sms-abosend: |
+    {"limits":{"cpu":"500m","memory":"300Mi"},"requests":{"cpu":"100m","memory":"300Mi"}}
   station-letter: |
     {"limits":{"cpu":"1","memory":"300Mi"},"requests":{"cpu":"100m","memory":"300Mi"}}
   tgs-production: |
