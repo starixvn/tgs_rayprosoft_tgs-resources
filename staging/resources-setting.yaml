@@ -464,6 +464,8 @@ data:
     {"limits":{"cpu":"100m","memory":"512Mi"},"requests":{"cpu":"10m","memory":"40Mi"}}
   sms-cyn: |
     {"limits":{"cpu":"100m","memory":"512Mi"},"requests":{"cpu":"10m","memory":"40Mi"}}
+  sms-abosend: |
+    {"limits":{"cpu":"100m","memory":"512Mi"},"requests":{"cpu":"10m","memory":"40Mi"}}
   station-letter: |
     {"limits":{"cpu":"100m","memory":"256Mi"},"requests":{"cpu":"10m","memory":"40Mi"}}
   validatecode-api: |
