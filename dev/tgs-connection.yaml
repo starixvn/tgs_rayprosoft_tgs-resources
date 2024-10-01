@@ -92,6 +92,8 @@ stringData:
   payment-antpay-callback: https://dev-payment.rpgp.cc/antpay
   payment-wfpay-paymentApiUrl: https://gnngbwtf.com
   payment-wfpay-callback: https://dev-payment.rpgp.cc/wfpay
+  payment-apollopay-paymentApiUrl: https://gate.apollopays.com
+  payment-apollopay-callback: https://dev-payment.rpgp.cc/apollopay
   mongo-player-bucket: mongodb://root:1qaz2wsx@mongodb/buckets?retryWrites=true&w=majority&authSource=admin
   mongo-messaging: mongodb://root:1qaz2wsx@mongodb/messaging?retryWrites=true&w=majority&authSource=admin
   mongo-gp: mongodb://root:1qaz2wsx@mongodb/?retryWrites=true&w=majority&authSource=admin
