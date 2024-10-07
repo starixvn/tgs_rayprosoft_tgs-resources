@@ -94,6 +94,7 @@ stringData:
   payment-wfpay-callback: https://stg-payment.rpgp.cc/wfpay
   payment-apollopay-paymentApiUrl: https://gate.apollopays.com
   payment-apollopay-callback: https://stg-payment.rpgp.cc/apollopay
+  payment-ninghongpay-paymentApiUrl: https://app.ninghong.org
   mongo-player-bucket: mongodb://root:1qaz2wsx@mongodb/buckets?retryWrites=true&w=majority&authSource=admin
   mongo-messaging: mongodb://root:1qaz2wsx@mongodb/messaging?retryWrites=true&w=majority&authSource=admin
   mongo-gp: mongodb://root:1qaz2wsx@mongodb/?retryWrites=true&w=majority&authSource=admin
