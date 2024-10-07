@@ -111,7 +111,7 @@ data:
   game-gamerecord-joker: |
     {"limits":{"cpu":"1","memory":"224Mi"},"requests":{"cpu":"50m","memory":"224Mi"}}
   game-gamedomain-joker: |
-    {"limits":{"cpu":"1","memory":"150Mi"},"requests":{"cpu":"10m","memory":"150Mi"}}
+    {"limits":{"cpu":"1","memory":"100Mi"},"requests":{"cpu":"10m","memory":"100Mi"}}
   game-gameinterface-ky: |
     {"limits":{"cpu":"1","memory":"224Mi"},"requests":{"cpu":"50m","memory":"224Mi"}}
   game-gamerecord-ky: |
