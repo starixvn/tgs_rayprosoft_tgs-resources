@@ -66,6 +66,8 @@ data:
     {"enabled":false}
   game-gamerecord-joker: |
     {"enabled":false}
+  game-gamedomain-joker: |
+    {"enabled":false}
   game-gameinterface-ky: |
     {"enabled":false}
   game-gamerecord-ky: |
