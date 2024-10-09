@@ -142,6 +142,8 @@ data:
     {"enabled":false}
   game-gamerecord-saba: |
     {"enabled":false}
+  game-gamefund-saba: |
+    {"enabled":false}
   game-gameinterface-sm01-service: |
     {"enabled":false}
   game-gameinterface-tfgaming-service: |

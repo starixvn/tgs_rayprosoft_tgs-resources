@@ -186,6 +186,8 @@ data:
     {"limits":{"cpu":"1","memory":"224Mi"},"requests":{"cpu":"50m","memory":"224Mi"}}
   game-gamerecord-saba: |
     {"limits":{"cpu":"1","memory":"224Mi"},"requests":{"cpu":"50m","memory":"224Mi"}}
+  game-gamefund-saba: |
+    {"limits":{"cpu":"1","memory":"100Mi"},"requests":{"cpu":"10m","memory":"100Mi"}}
   game-gameinterface-sm01-service: |
     {"limits":{"cpu":"1","memory":"224Mi"},"requests":{"cpu":"50m","memory":"224Mi"}}
   game-gameinterface-tfgaming-service: |
