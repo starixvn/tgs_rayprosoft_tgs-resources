@@ -48,8 +48,6 @@ data:
     {"enabled":false}
   game-gamewagers-stat-daily: |
     {"enabled":false}
-  game-gamebets-rapidtest: |
-    {"enabled":false}
   game-gamebets-rapidtest-worker: |
     {"enabled":false}
   game-gamebets-rapidtest-expire: |
